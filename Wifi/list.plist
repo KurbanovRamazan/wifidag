@@ -4,6 +4,18 @@
 <array>
 	<dict>
 		<key>lat</key>
+		<real>42.97362788280671</real>
+		<key>lon</key>
+		<real>47.51057652996723</real>
+		<key>ssid</key>
+		<string>azbar</string>
+		<key>password</key>
+		<string>11223344</string>
+		<key>place</key>
+		<string>Азбар</string>
+	</dict>
+	<dict>
+		<key>lat</key>
 		<real>42.986793</real>
 		<key>lon</key>
 		<real>47.472848</real>
