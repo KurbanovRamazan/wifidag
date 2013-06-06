@@ -7,7 +7,7 @@
 Приложением будут пользоваться жители Махачкалы и гости столицы.
 
 ====
-Кнопка
+Скачать
 
 <!-- MacBuildServer Install Button -->
 <div class="macbuildserver-block">
